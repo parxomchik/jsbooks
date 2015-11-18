@@ -1,0 +1,161 @@
+{
+	"title": "Eloquent JavaScript",
+	"description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+	"author": "Marijn Haverbeke",
+	"url": "http://eloquentjavascript.net",
+	"cover": "/images/books/eloquent_javascript.png",
+	"pages": "451",
+	"releaseDate": "2014",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+	"title": "You Dont Know JS (Book Series)",
+	"description": "This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer.",
+	"author": "Kyle Simpson",
+	"url": "https://github.com/getify/You-Dont-Know-JS",
+	"cover": "/images/books/you_dont_know_js_(book_series).jpg",
+	"releaseDate": "2014",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "advanced"
+},
+{
+  "title": "JavaScript For Cats",
+	"description": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
+  "author": "Max Ogden",
+  "url": "http://jsforcats.com",
+  "cover": "/images/books/jsforcats.png",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Javascript Enlightenment",
+  "description": "If you are a designer or developer who has only used JavaScript under the mantle of libraries (such as jQuery, Prototype, etc), it is my hope that the material in this book will transform you from a JavaScript library user into a JavaScript developer.",
+  "author": "Cody Lindley",
+  "url": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920027713/lrg.jpg",
+  "pages": "166",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Building A JavaScript Framework",
+  "description": "This book is a guide to building a JavaScript framework. It’ll teach you how to build a framework and draw on real-world code from projects like jQuery.",
+  "author": "Alex Young",
+  "url": "https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf",
+  "cover": "http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png",
+  "pages": "77",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Learning Javascript Design Patterns",
+  "description": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.",
+  "author": "Addy Osmaniy",
+  "url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920025832/lrg.jpg",
+  "pages": "254",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Javascript Guide",
+  "description": "If you are new to JavaScript, this guide will walk you through the language.",
+  "author": "Mozilla Developer Network",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+  "cover": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
+  "pages": "150",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+	"title": "JavaScript Garden",
+	"description": "JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.",
+	"author": "Ivo Wetzel & Zhang Yi Jiang",
+	"url": "http://shamansir.github.io/JavaScript-Garden/en/",
+	"cover": "/images/books/javascript_garden.jpg",
+	"pages": "64",
+	"releaseDate": "2013",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+	"title": "Sams Teach Yourself JavaScript in 24 Hours",
+	"description": "JavaScript is one of the easiest, most straightforward ways to enhance a Web site with interactivity. Sams Teach Yourself JavaScript in 24 Hours serves as an easy-to-understand tutorial on both scripting basics and JavaScript itself. The book is written in a clear and personable style with an extensive use of practical, complete examples.",
+	"author": "Michael Moncur",
+	"url": "http://ptgmedia.pearsoncmg.com/images/9780672336089/samplepages/0672336081.pdf",
+	"cover": "/images/books/sams_teach_yourself_javascript_in_24_hours_.jpg",
+	"pages": "428",
+	"releaseDate": "2002",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+  "title": "Effective Javascript: 68 Specific Ways to Harness the Power of JavaScript",
+  "description": "Reflecting the latest versions of the JavaScript standard, the book offers well-proven techniques and best practices you’ll rely on for years to come.",
+  "author": "David Herman",
+  "url": "http://ptgmedia.pearsoncmg.com/images/9780321812186/samplepages/0321812182.pdf",
+  "cover": "/images/books/effective_javascript_.jpg",
+  "pages": "240",
+	"releaseDate": "2012",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Maintainable JavaScript",
+  "description": "Author Nicholas Zakas assembled this collection of best practices as a front-end tech leader at Yahoo!, after completing his own journey from solo hacker to team player. He also includes rules recommended by other industry authorities. Use these tips and techniques to help your team set aside individual preferences and function at a higher level.",
+  "author": "Nicholas C. Zakas ",
+  "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781449327682_sampler.pdf",
+  "cover": "/images/books/maintainable_javascript.jpg",
+  "pages": "242",
+	"releaseDate": "2012",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "JavaScript Patterns",
+  "description": "Learn how to build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this hands-on guide, author Ethan Brown teaches you the fundamentals through the development of a fictional application that exposes a public website and a RESTful API. You’ll also learn web architecture best...",
+  "author": "Stoyan Stefanov",
+  "url": "http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752",
+  "cover": "/images/books/js_patterns.jpg",
+	"pages": "332",
+	"releaseDate": "2014",
+	"type": "paid",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+}

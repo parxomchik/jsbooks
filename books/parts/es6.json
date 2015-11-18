@@ -1,0 +1,51 @@
+{
+  "title": "Understanding ECMAScript 6",
+  "description": "ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!",
+  "author": "Nicholas C. Zakas",
+  "url": "https://leanpub.com/understandinges6/read",
+  "cover": "/images/books/understandind_es_6.png",
+	"type": "free",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Exploring ES6",
+  "description": "An in-depth book on ECMAScript 6, for JavaScript programmers.",
+  "author": "Aaron Frost",
+  "url": "https://leanpub.com/exploring-es6/",
+  "cover": "/images/books/exploring_es6.jpeg",
+  "pages": "556",
+	"type": "paid",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "You Don't Know JS: ES6 & Beyond",
+  "description": "You Don't Know JS: ES6 & Beyond",
+  "author": "Kyle Simpson",
+  "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond",
+  "cover": "/images/books/ydnjs_es6.gif",
+  "pages": "272",
+	"type": "free",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Expert JavaScript",
+  "description": "Expert JavaScript is your definitive guide to understanding how and why JavaScript behaves in the way it does. Master every aspect of this powerful language, apply it pragmatically to your applications - become an expert programmer today.",
+  "author": "Mark E. Daggett",
+  "url": "http://arcturo.github.io/library/coffeescript/index.html",
+  "cover": "expert_js.jpg",
+  "pages": "248",
+	"type": "free",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+}

@@ -1,0 +1,600 @@
+[{
+	"title": "Eloquent JavaScript",
+	"description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+	"author": "Marijn Haverbeke",
+	"url": "http://eloquentjavascript.net",
+	"cover": "/images/books/eloquent_javascript.png",
+	"pages": "451",
+	"releaseDate": "2014",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+	"title": "You Dont Know JS (Book Series)",
+	"description": "This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer.",
+	"author": "Kyle Simpson",
+	"url": "https://github.com/getify/You-Dont-Know-JS",
+	"cover": "/images/books/you_dont_know_js_(book_series).jpg",
+	"releaseDate": "2014",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "advanced"
+},
+{
+  "title": "JavaScript For Cats",
+	"description": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
+  "author": "Max Ogden",
+  "url": "http://jsforcats.com",
+  "cover": "/images/books/jsforcats.png",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+	"title": "jQuery: Novice to Ninja: New Kicks And Tricks",
+	"description": "This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer.",
+	"author": "Earle Castledine & Craig Sharkie",
+	"url": "http://file.allitebooks.com/20150513/You%20Don-t%20Know%20JS%20Scope%20-%20Closures.pdf",
+	"cover": "/images/books/jquery_novice_to_ninja_new_kicks_and_tricks.jpg",
+	"pages": "480",
+	"releaseDate": "2012",
+	"type": "paid",
+	"tags": [
+		"jQuery"
+	],
+	"level": "beginner"
+},
+{
+  "title": "Javascript Enlightenment",
+  "description": "If you are a designer or developer who has only used JavaScript under the mantle of libraries (such as jQuery, Prototype, etc), it is my hope that the material in this book will transform you from a JavaScript library user into a JavaScript developer.",
+  "author": "Cody Lindley",
+  "url": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920027713/lrg.jpg",
+  "pages": "166",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Building A JavaScript Framework",
+  "description": "This book is a guide to building a JavaScript framework. It’ll teach you how to build a framework and draw on real-world code from projects like jQuery.",
+  "author": "Alex Young",
+  "url": "https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf",
+  "cover": "http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png",
+  "pages": "77",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Node Beginner",
+  "description": "The aim of this document is to get you started with developing applications with Node.js, teaching you everything you need to know about 'advanced' JavaScript along the way.",
+  "author": "Manuel Kiessling",
+  "url": "http://www.baboon.ir/uploads/2015/06/The.Node_.Beginner.Book_.pdf",
+  "cover": "https://s3.amazonaws.com/titlepages.leanpub.com/nodebeginner/large?1444467456",
+  "pages": "224",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "jQuery Fundamentals",
+  "description": "jQuery Fundamentals is designed to get you comfortable working through common problems you'll be called upon to solve using jQuery.",
+  "author": "Rebecca Murphey",
+  "url": "http://jqfundamentals.com",
+  "cover": "http://freecomputerbooks.com/covers/jQuery-Fundamentals.gif",
+  "pages": "108",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Learning Javascript Design Patterns",
+  "description": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.",
+  "author": "Addy Osmaniy",
+  "url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920025832/lrg.jpg",
+  "pages": "254",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Developing Backbone.js Applications",
+  "description": "If you want to build your site’s frontend with the single-page application (SPA) model, this hands-on book shows you how to get the job done with Backbone.js.",
+  "author": "Addy Osmaniy",
+  "url": "http://addyosmani.github.io/backbone-fundamentals/",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920025344/lrg.jpg",
+  "pages": "374",
+	"type": "free",
+  "tags": [
+    "Backbone"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Javascript Guide",
+  "description": "If you are new to JavaScript, this guide will walk you through the language.",
+  "author": "Mozilla Developer Network",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+  "cover": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
+  "pages": "150",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "The little Book on CoffeeScript",
+  "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
+  "author": "Alex MacCaw",
+  "url": "http://arcturo.github.io/library/coffeescript/index.html",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920024309/lrg.jpg",
+  "pages": "62",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+	"title": "Mixu's Node book",
+	"description": "A comprehensive and interesting NodeJS overview covering many aspects in details.",
+  "author": "Mikito Takada",
+  "url": "http://book.mixu.net/node/",
+  "cover": "http://jsbooks.revolunet.com/img/nodemixu.png",
+	"type": "free",
+	"releaseDate": "2012",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Up and Running with Node.js",
+	"description": "Discover NodeJS APIS, tools, modules and best practices and learn how to extend it.",
+  "author": "Tom Hughes-Croucher",
+  "url": "http://chimera.labs.oreilly.com/books/1234000001808/index.html",
+	"cover": "/images/books/upandrunningnode.png",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Mastering NodeJS",
+	"description": "In Mastering Node we will discover how to write high concurrency web servers",
+  "author": "TJ Holowaychuk",
+  "url": "http://github.com/visionmedia/masteringnode/raw/master/book.pdf",
+  "cover": "/images/books/masteringnode.png",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Stream handbook",
+	"description": "a free short e-book that teaches you how to write node programs with streams, by James Halliday a famous NodeJS supporter that published numerous awesome NodeJS modules",
+  "author": "James Halliday (substack)",
+  "url": "https://github.com/substack/stream-handbook",
+  "cover": "/images/books/streamshandbook.png",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Art of Node",
+	"description": "a free short e-book that teaches you the fundamentals of Node.js by Max Odgen, a popular Node supporter",
+  "author": "Max Odgen",
+  "url": "https://github.com/maxogden/art-of-node",
+  "cover": "/images/books/artofnode.png",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Recipes with Angular.js",
+	"description": "Practical concepts and techniques for rapid web application development",
+  "author": "Frederik Dietz",
+  "url": "https://leanpub.com/recipes-with-angular-js/read",
+  "cover": "/images/books/recipes_with_angular.png",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Angular Succinctly",
+	"description": "Whether you are a novice looking to understand Angular.js or an expert seeking a reference guide, AngularJS Succinctly is indispensable!",
+  "author": "Frederik Dietz",
+  "url": "https://www.syncfusion.com/resources/techportal/ebooks/angularjs",
+  "cover": "/images/books/angularjssuccinctly.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "AngularJS Directives in Traction",
+	"description": "This eBook helps you understand how built-in directives work and teaches you to build custom directives on your own.",
+  "author": "Amit Gharat",
+  "authorUrl": "https://amitgharat.wordpress.com/",
+  "url": "http://codef0rmer.gitbooks.io/angularjs-directives-in-traction-the-book/",
+  "cover": "/images/books/angular-directives-in-traction.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "AngularJS Fundamentals in 60 minutes",
+	"description": "This eBook is a documented transcription of the famous 'AngularJS in 60 minutes' video; The ebook is going through all of the key fundamentals you need to know about the AngularJS SPA framework.",
+  "author": "Dan Wahlin",
+  "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf",
+  "cover": "/images/books/angular-fundamentals.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Knockout.js Succinctly",
+	"description": "Knockout.js Succinctly is intended for professional web developers who need to build dynamic, scalable user interfaces with minimal code. Author Ryan Hodson guides you through the essentials of the library, starting with a brief overview of Knockout and its data-oriented aspects, followed by a thorough examination of binding data to various HTML elements, and finally examples of accessing external data and combining Knockout with jQuery animation routines.",
+  "author": "Ryan Hodson",
+  "url": "http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs",
+  "cover": "/images/books/knockoutjssuccinctly.png",
+	"type": "free",
+  "tags": [
+    "knockout"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Smooth CoffeeScript",
+	"description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
+  "author": "E. Hoigaard",
+  "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
+  "cover": "/images/books/smoothcoffeescript.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Hard Rock CoffeeScript",
+	"description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
+  "author": "Alex Chaplinsky",
+  "url": "http://hardrockcoffeescript.org",
+  "cover": "/images/books/hard_rock_coffeescript.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Testing with CoffeeScript",
+	"description": "You will be guided through the creation of a shopping cart system. You’ll learn about using and testing jQuery code, writing more idiomatic CoffeeScript and building a well thought out and structured, complex JavaScript application.",
+  "author": "Jack Franklin",
+  "url": "https://efendibooks.com/minibooks/testing-with-coffeescript",
+  "cover": "/images/books/testingcf.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "CoffeeScript Cookbook",
+	"description": "CoffeeScript recipes for the community by the community.",
+  "author": "Multiple Owner",
+  "url": "https://coffeescript-cookbook.github.io/",
+  "cover": "/images/books/coffeescriptcookbook.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "beginner"
+},
+{
+	"title": "JavaScript Garden",
+	"description": "JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.",
+	"author": "Ivo Wetzel & Zhang Yi Jiang",
+	"url": "/images/books/javascript_garden.jpg",
+	"cover": "//ecx.images-amazon.com/images/I/413rjS3C3XL._SX373_BO1,204,203,200_.jpg",
+	"pages": "64",
+	"releaseDate": "2013",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+	"title": "Sams Teach Yourself JavaScript in 24 Hours",
+	"description": "JavaScript is one of the easiest, most straightforward ways to enhance a Web site with interactivity. Sams Teach Yourself JavaScript in 24 Hours serves as an easy-to-understand tutorial on both scripting basics and JavaScript itself. The book is written in a clear and personable style with an extensive use of practical, complete examples.",
+	"author": "Michael Moncur",
+	"url": "http://ptgmedia.pearsoncmg.com/images/9780672336089/samplepages/0672336081.pdf",
+	"cover": "/images/books/sams_teach_yourself_javascript_in_24_hours_.jpg",
+	"pages": "428",
+	"releaseDate": "2002",
+	"type": "free",
+	"tags": [
+		"JavaScript"
+	],
+	"level": "beginner"
+},
+{
+	"title": "jQuery, jQuery UI, and jQuery Mobile: Recipes and Examples",
+	"description": "jQuery makes it easier than ever for developers to build exceptionally robust, cross-platform websites and mobile apps. This extremely useful guide brings together more than one hundred self-contained, downloadable examples, each with an in-depth explanation of how the code works and how to adapt it for your own needs.",
+	"author": " Adriaan de Jonge & Phillip Dutson",
+	"url": "http://ptgmedia.pearsoncmg.com/images/9780321822086/samplepages/0321822080.pdf",
+	"cover": "/images/books/jquery_jquery_ui_and_jquery_mobile.jpeg",
+	"pages": "371",
+	"releaseDate": "2012",
+	"type": "free",
+	"tags": [
+		"jQuery"
+	],
+	"level": "beginner"
+},
+{
+  "title": "Node.js The Right Way",
+  "description": "This short book packs a hefty dose of Node.js. You’ll test your code’s functionality and performance under load. You’ll learn important aspects of Node development—from its architecture and core, to its ecosystem of third-party modules.",
+  "author": "Jim R. Wilson",
+  "url": "http://cdn.octo-dev.co.uk/publications/node-js-the-right-way_p1_0.pdf",
+  "cover": "/images/books/nodejs_the_right_way.jpg",
+  "pages": "148",
+	"releaseDate": "2013",
+	"type": "free",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Head First jQuery (Brain-Friendly Guides) ",
+  "description": "If you want to learn—and understand—how to create interactive web pages, unobtrusive script, and cool animations that don't kill your browser, this book is for you.",
+  "author": "Ryan Benedetti & Ronan Cranley",
+  "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781449393212_sampler.pdf",
+  "cover": "/images/books/head_first_jquery.jpg",
+  "pages": "540",
+	"releaseDate": "2011",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "jQuery Cookbook",
+  "description": "Getting started with the jQuery library is easy, but it can take years to fully realize its breadth and depth; jQuery Cookbook shortens the learning curve considerably. The recipes start with the basics and then move into practical use cases with tested solutions to common web development hurdles.",
+  "author": "Cody Lindley",
+  "url": "http://listic.ru/jQuery_Cookbook.pdf",
+  "cover": "/images/books/jquery_cookbook.jpg",
+  "pages": "478",
+	"releaseDate": "2009",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Building Backbone Plugins",
+  "description": "From the creator of MarionetteJS - the premiere application framework for Backbone.js - comes a book that will show you how to Eliminate the boilerplate code that plagues your Backbone apps by building the add-ons and abstractions that your app needs.",
+  "author": "Derick Bailey & Jerome Gravel-Niquet",
+  "url": "https://leanpub.com/building-backbone-plugins",
+  "cover": "/images/books/building_backbone_plugins.jpg",
+  "pages": "209",
+	"releaseDate": "2014",
+	"type": "paid",
+  "tags": [
+    "Backbone"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Effecive Javascript: 68 Specific Ways to Harness the Power of JavaScript",
+  "description": "Reflecting the latest versions of the JavaScript standard, the book offers well-proven techniques and best practices you’ll rely on for years to come.",
+  "author": "David Herman",
+  "url": "http://ptgmedia.pearsoncmg.com/images/9780321812186/samplepages/0321812182.pdf",
+  "cover": "/images/books/effective_javascript_.jpg",
+  "pages": "240",
+	"releaseDate": "2012",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Maintainable JavaScript",
+  "description": "Author Nicholas Zakas assembled this collection of best practices as a front-end tech leader at Yahoo!, after completing his own journey from solo hacker to team player. He also includes rules recommended by other industry authorities. Use these tips and techniques to help your team set aside individual preferences and function at a higher level.",
+  "author": "Nicholas C. Zakas ",
+  "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781449327682_sampler.pdf",
+  "cover": "/images/books/maintainable_javascript.jpg",
+  "pages": "242",
+	"releaseDate": "2012",
+	"type": "free",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "SurviveJS - Webpack and React",
+  "description": "Webpack, a module bundler, solves a significant problem for web developers. It can be daunting to learn but once you grok it, life gets easier. Same goes for React, a JavaScript library for building UIs. This book shows you how to build a little Kanban application using these technologies. During the process you will learn the basics and will be able to take the skills to your own projects.",
+  "author": "Juho Vepsäläinen",
+  "url": "http://survivejs.com/",
+  "cover": "/images/books/webpack_and_react.jpg",
+	"type": "free",
+  "tags": [
+    "React"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "React: Up & Running",
+  "description": "Building Web Applications",
+  "author": "Stoyan Stefanov",
+  "url": "http://shop.oreilly.com/product/0636920042266.do",
+  "cover": "/images/books/react_up_and_running.jpg",
+	"pages": "250",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "React"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "AngularJS: Up and Running",
+  "description": "If you want to get started with AngularJS, either as a side project, an additional tool, or for your main work, this practical guide teaches you how to use this meta-framework step-by-step, from the basics to advanced concepts. By the end of the book, you’ll understand how to develop a large, maintainable, and performant application with AngularJS.",
+  "author": " Shyam Seshadri, Brad Green ",
+  "url": "http://shop.oreilly.com/product/0636920033486.do",
+  "cover": "/images/books/angular_up_and_running.jpg",
+	"pages": "295",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Pro Angularjs",
+  "description": "AngularJS is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. AngularJS, which is maintained by Google, brings the power of the Model-View-Controller (MVC) pattern to the client, providing the foundation for complex and rich web apps. It allows you to build applications that are smaller, faster, and with a lighter resource footprint than ever before.",
+  "author": "Adam Freeman",
+  "url": "http://filepi.com/i/PIUp07j",
+  "cover": "/images/books/pro_angular.jpg",
+	"pages": "688",
+	"releaseDate": "2014",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Web Development with Node and Express",
+  "description": "AngularJS is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. AngularJS, which is maintained by Google, brings the power of the Model-View-Controller (MVC) pattern to the client, providing the foundation for complex and rich web apps. It allows you to build applications that are smaller, faster, and with a lighter resource footprint than ever before.",
+  "author": "Ethan Brown",
+  "url": "http://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1491949309/",
+  "cover": "/images/books/node_express.jpg",
+	"pages": "332",
+	"releaseDate": "2014",
+	"type": "paid",
+  "tags": [
+    "NodeJS"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "JavaScript Patterns",
+  "description": "Learn how to build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this hands-on guide, author Ethan Brown teaches you the fundamentals through the development of a fictional application that exposes a public website and a RESTful API. You’ll also learn web architecture best...",
+  "author": "Stoyan Stefanov",
+  "url": "http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752",
+  "cover": "/images/books/js_patterns.jpg",
+	"pages": "332",
+	"releaseDate": "2014",
+	"type": "paid",
+  "tags": [
+    "JavaScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "JavaScript with Promises",
+  "description": "Learn how to build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this hands-on guide, author Ethan Brown teaches you the fundamentals through the development of a fictional application that exposes a public website and a RESTful API. You’ll also learn web architecture best...",
+  "author": "Daniel Parker",
+  "url": "http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216",
+  "cover": "/images/books/js_promises.jpg",
+	"pages": "94",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "Promises"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Understanding ECMAScript 6",
+  "description": "ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!",
+  "author": "Nicholas C. Zakas",
+  "url": "https://leanpub.com/understandinges6/read",
+  "cover": "/images/books/understandind_es_6.png",
+	"type": "free",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Exploring ES6",
+  "description": "An in-depth book on ECMAScript 6, for JavaScript programmers.",
+  "author": "Aaron Frost",
+  "url": "https://leanpub.com/exploring-es6/",
+  "cover": "/images/books/exploring_es6.jpeg",
+  "pages": "556",
+	"type": "paid",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "You Don't Know JS: ES6 & Beyond",
+  "description": "You Don't Know JS: ES6 & Beyond",
+  "author": "Kyle Simpson",
+  "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond",
+  "cover": "/images/books/ydnjs_es6.gif",
+  "pages": "272",
+	"type": "free",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Expert JavaScript",
+  "description": "Expert JavaScript is your definitive guide to understanding how and why JavaScript behaves in the way it does. Master every aspect of this powerful language, apply it pragmatically to your applications - become an expert programmer today.",
+  "author": "Mark E. Daggett",
+  "url": "http://www.apress.com/9781430260974",
+  "cover": "/images/books/expert_js.jpg",
+  "pages": "248",
+	"type": "paid",
+  "tags": [
+    "ES6"
+  ],
+	"level": "advanced"
+}]

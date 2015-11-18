@@ -1,0 +1,61 @@
+{
+  "title": "The little Book on CoffeeScript",
+  "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
+  "author": "Alex MacCaw",
+  "url": "http://arcturo.github.io/library/coffeescript/index.html",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920024309/lrg.jpg",
+  "pages": "62",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Smooth CoffeeScript",
+	"description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
+  "author": "E. Hoigaard",
+  "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
+  "cover": "/images/books/smoothcoffeescript.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Hard Rock CoffeeScript",
+	"description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
+  "author": "Alex Chaplinsky",
+  "url": "http://hardrockcoffeescript.org",
+  "cover": "/images/books/hard_rock_coffeescript.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Testing with CoffeeScript",
+	"description": "You will be guided through the creation of a shopping cart system. You’ll learn about using and testing jQuery code, writing more idiomatic CoffeeScript and building a well thought out and structured, complex JavaScript application.",
+  "author": "Jack Franklin",
+  "url": "https://efendibooks.com/minibooks/testing-with-coffeescript",
+  "cover": "/images/books/testingcf.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "CoffeeScript Cookbook",
+	"description": "CoffeeScript recipes for the community by the community.",
+  "author": "Multiple Owner",
+  "url": "https://coffeescript-cookbook.github.io/",
+  "cover": "/images/books/coffeescriptcookbook.png",
+	"type": "free",
+  "tags": [
+    "CoffeeScript"
+  ],
+	"level": "beginner"
+}

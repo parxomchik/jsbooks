@@ -1,0 +1,27 @@
+{
+  "title": "Developing Backbone.js Applications",
+  "description": "If you want to build your site’s frontend with the single-page application (SPA) model, this hands-on book shows you how to get the job done with Backbone.js.",
+  "author": "Addy Osmaniy",
+  "url": "http://addyosmani.github.io/backbone-fundamentals/",
+  "cover": "http://akamaicovers.oreilly.com/images/0636920025344/lrg.jpg",
+  "pages": "374",
+	"type": "free",
+  "tags": [
+    "Backbone"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Building Backbone Plugins",
+  "description": "From the creator of MarionetteJS - the premiere application framework for Backbone.js - comes a book that will show you how to Eliminate the boilerplate code that plagues your Backbone apps by building the add-ons and abstractions that your app needs.",
+  "author": "Derick Bailey & Jerome Gravel-Niquet",
+  "url": "https://leanpub.com/building-backbone-plugins",
+  "cover": "/images/books/building_backbone_plugins.jpg",
+  "pages": "209",
+	"releaseDate": "2014",
+	"type": "paid",
+  "tags": [
+    "Backbone"
+  ],
+	"level": "advanced"
+}

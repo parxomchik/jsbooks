@@ -1,0 +1,69 @@
+{
+	"title": "jQuery: Novice to Ninja: New Kicks And Tricks",
+	"description": "This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer.",
+	"author": "Earle Castledine & Craig Sharkie",
+	"url": "http://file.allitebooks.com/20150513/You%20Don-t%20Know%20JS%20Scope%20-%20Closures.pdf",
+	"cover": "/images/books/jquery_novice_to_ninja_new_kicks_and_tricks.jpg",
+	"pages": "480",
+	"releaseDate": "2012",
+	"type": "paid",
+	"tags": [
+		"jQuery"
+	],
+	"level": "beginner"
+},
+{
+  "title": "jQuery Fundamentals",
+  "description": "jQuery Fundamentals is designed to get you comfortable working through common problems you'll be called upon to solve using jQuery.",
+  "author": "Rebecca Murphey",
+  "url": "http://jqfundamentals.com",
+  "cover": "http://freecomputerbooks.com/covers/jQuery-Fundamentals.gif",
+  "pages": "108",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+},
+{
+	"title": "jQuery, jQuery UI, and jQuery Mobile: Recipes and Examples",
+	"description": "jQuery makes it easier than ever for developers to build exceptionally robust, cross-platform websites and mobile apps. This extremely useful guide brings together more than one hundred self-contained, downloadable examples, each with an in-depth explanation of how the code works and how to adapt it for your own needs.",
+	"author": " Adriaan de Jonge & Phillip Dutson",
+	"url": "http://ptgmedia.pearsoncmg.com/images/9780321822086/samplepages/0321822080.pdf",
+	"cover": "/images/books/jquery_jquery_ui_and_jquery_mobile.jpeg",
+	"pages": "371",
+	"releaseDate": "2012",
+	"type": "free",
+	"tags": [
+		"jQuery"
+	],
+	"level": "beginner"
+},
+{
+  "title": "Head First jQuery (Brain-Friendly Guides) ",
+  "description": "If you want to learn—and understand—how to create interactive web pages, unobtrusive script, and cool animations that don't kill your browser, this book is for you.",
+  "author": "Ryan Benedetti & Ronan Cranley",
+  "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781449393212_sampler.pdf",
+  "cover": "/images/books/head_first_jquery.jpg",
+  "pages": "540",
+	"releaseDate": "2011",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "jQuery Cookbook",
+  "description": "Getting started with the jQuery library is easy, but it can take years to fully realize its breadth and depth; jQuery Cookbook shortens the learning curve considerably. The recipes start with the basics and then move into practical use cases with tested solutions to common web development hurdles.",
+  "author": "Cody Lindley",
+  "url": "http://listic.ru/jQuery_Cookbook.pdf",
+  "cover": "/images/books/jquery_cookbook.jpg",
+  "pages": "478",
+	"releaseDate": "2009",
+	"type": "free",
+  "tags": [
+    "jQuery"
+  ],
+	"level": "beginner"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SurviveJS - Webpack and React",
+  "description": "Webpack, a module bundler, solves a significant problem for web developers. It can be daunting to learn but once you grok it, life gets easier. Same goes for React, a JavaScript library for building UIs. This book shows you how to build a little Kanban application using these technologies. During the process you will learn the basics and will be able to take the skills to your own projects.",
+  "author": "Juho Vepsäläinen",
+  "url": "http://survivejs.com/",
+  "cover": "/images/books/webpack_and_react.jpg",
+	"type": "free",
+  "tags": [
+    "React"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "React: Up & Running",
+  "description": "Building Web Applications",
+  "author": "Stoyan Stefanov",
+  "url": "http://shop.oreilly.com/product/0636920042266.do",
+  "cover": "/images/books/react_up_and_running.jpg",
+	"pages": "250",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "React"
+  ],
+	"level": "advanced"
+}

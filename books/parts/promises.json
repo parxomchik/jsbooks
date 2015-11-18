@@ -1,0 +1,14 @@
+{
+  "title": "JavaScript with Promises",
+  "description": "Learn how to build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this hands-on guide, author Ethan Brown teaches you the fundamentals through the development of a fictional application that exposes a public website and a RESTful API. You’ll also learn web architecture best...",
+  "author": "Daniel Parker",
+  "url": "http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216",
+  "cover": "/images/books/js_promises.jpg",
+	"pages": "94",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "Promises"
+  ],
+	"level": "advanced"
+}

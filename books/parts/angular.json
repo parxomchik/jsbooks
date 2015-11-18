@@ -1,0 +1,77 @@
+{
+  "title": "AngularJS: Up and Running",
+  "description": "If you want to get started with AngularJS, either as a side project, an additional tool, or for your main work, this practical guide teaches you how to use this meta-framework step-by-step, from the basics to advanced concepts. By the end of the book, you’ll understand how to develop a large, maintainable, and performant application with AngularJS.",
+  "author": " Shyam Seshadri, Brad Green ",
+  "url": "http://shop.oreilly.com/product/0636920033486.do",
+  "cover": "/images/books/angular_up_and_running.jpg",
+	"pages": "295",
+	"releaseDate": "2015",
+	"type": "paid",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Pro Angularjs",
+  "description": "AngularJS is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. AngularJS, which is maintained by Google, brings the power of the Model-View-Controller (MVC) pattern to the client, providing the foundation for complex and rich web apps. It allows you to build applications that are smaller, faster, and with a lighter resource footprint than ever before.",
+  "author": "Adam Freeman",
+  "url": "http://filepi.com/i/PIUp07j",
+  "cover": "/images/books/pro_angular.jpg",
+	"pages": "688",
+	"releaseDate": "2014",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "Recipes with Angular.js",
+	"description": "Practical concepts and techniques for rapid web application development",
+  "author": "Frederik Dietz",
+  "url": "https://leanpub.com/recipes-with-angular-js/read",
+  "cover": "/images/books/recipes_with_angular.png",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "Angular Succinctly",
+	"description": "Whether you are a novice looking to understand Angular.js or an expert seeking a reference guide, AngularJS Succinctly is indispensable!",
+  "author": "Frederik Dietz",
+  "url": "https://www.syncfusion.com/resources/techportal/ebooks/angularjs",
+  "cover": "/images/books/angularjssuccinctly.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+},
+{
+  "title": "AngularJS Directives in Traction",
+	"description": "This eBook helps you understand how built-in directives work and teaches you to build custom directives on your own.",
+  "author": "Amit Gharat",
+  "authorUrl": "https://amitgharat.wordpress.com/",
+  "url": "http://codef0rmer.gitbooks.io/angularjs-directives-in-traction-the-book/",
+  "cover": "/images/books/angular-directives-in-traction.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "advanced"
+},
+{
+  "title": "AngularJS Fundamentals in 60 minutes",
+	"description": "This eBook is a documented transcription of the famous 'AngularJS in 60 minutes' video; The ebook is going through all of the key fundamentals you need to know about the AngularJS SPA framework.",
+  "author": "Dan Wahlin",
+  "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf",
+  "cover": "/images/books/angular-fundamentals.jpg",
+	"type": "free",
+  "tags": [
+    "Angularjs"
+  ],
+	"level": "beginner"
+}
